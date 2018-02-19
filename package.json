@@ -1,0 +1,22 @@
+{
+  "name": "ish.",
+  "version": "1.0.0",
+  "description": "Fork of Brad Frost's ish. is yet another viewport resizer to add npm package.json support",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://akrug23@github.com/akrug23/ish..git"
+  },
+  "keywords": [
+    "ish"
+  ],
+  "author": "Brad Frost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akrug23/ish./issues"
+  },
+  "homepage": "https://github.com/akrug23/ish.#readme"
+}
